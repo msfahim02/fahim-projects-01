@@ -1,0 +1,80 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(244, 242, 240);
+    margin: 0;
+}
+section{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.half-width{
+    width: 100%;
+    padding-left: 80px;
+    padding-top: 100px;
+}
+.half-width img{
+    width: 100%;
+   
+}
+.orange-color{
+    color: orange;
+}
+.black{
+    color: rgb(102, 99, 99);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(233, 57, 26));
+    padding: 10px 15px;
+    border-radius: 50px;
+    color: white;
+
+}
+.fahim01{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    width: 100%;
+}
+div{
+    text-align: center;
+    width: 100%;
+}
+.box{
+    width: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-shadow: 5px 5px 20px gray;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    border-radius: 20px;
+
+}
+.images{
+    width: 100%;
+    border-radius: 10px;
+}
+.comment{
+    box-shadow: 5px 5px 20px gray;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 40px;
+
+}
